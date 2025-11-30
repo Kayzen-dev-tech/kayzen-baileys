@@ -308,7 +308,7 @@ Development Setup
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/kayzen-baileys.git
+git clone https://github.com/Kayzen-dev-tech/kayzen-baileys.git
 cd kayzen-baileys
 
 # Install dependencies
